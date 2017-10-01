@@ -1,1 +1,4 @@
 # COURSERA_LECTURES
+
+## COURSE 2: R PROGRAMMING
+### 2.A. Functions
