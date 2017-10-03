@@ -2,3 +2,4 @@
 
 ## COURSE 2: R PROGRAMMING
 ### 2.A. Functions
+### 2.B. QUIZ: CREATING FUNCTIONS
